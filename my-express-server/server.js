@@ -15,7 +15,7 @@ app.get("/about", (req, res) => {
 });
 
 app.get("/hobbies", (req, res) => {
-    res.send("<p>My hobbies are <ul><li>Servers</li><li>Switches</li><li>Bitches</li></ul></p>");
+    res.send("<p>My hobbies are <ul><li>Servers</li><li>Switches</li><li>Routers</li></ul></p>");
 });
 
 
